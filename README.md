@@ -36,6 +36,6 @@ Cost effective
   
 ### Apache installed: test page
  Copy the Public IP address of my EC2 and paste into a new tab.
- IP address: 
+ Public IP address: 18.202.81.81
 The final look...✨
 ![Testpage img](/testpage.png)
