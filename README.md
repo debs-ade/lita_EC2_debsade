@@ -17,13 +17,20 @@ Cost effective
    ### Security Group Creation 
   Using the already provided VPC, set inbound and outbounds rule.
   Allow all SSH at 22 and HTTP at 80 traffic
-  ![SG image](/security_groups.png)
+  ![SG image](/secutity_groups.png)
 
-  ### EC2 Instance Configed 
+  ### EC2 Instance Configured 
   I configured the EC2 with linux 2 AMI,
   selecting the VPC, ensuring the subnet has a public IP address 
   selected the Key pair i created earlier on.
   attached the above Security group and launched the instance.
   ![EC2 Instance successfully initialized img](/EC2_instance.png)
+
+
+  ### Installing Apache through Git
+  From AWS console, launcehed EC2 SSH cilent 
+  a readily command promt was provided.
+  Paste the command into git.
+ ![installing Apcahe on Git img](/installig_apache.png)
   
   
