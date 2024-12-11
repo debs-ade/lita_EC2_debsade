@@ -31,6 +31,11 @@ Cost effective
   From AWS console, launcehed EC2 SSH cilent 
   a readily command promt was provided.
   Paste the command into git.
- ![installing Apcahe on Git img](/installig_apache.png)
+ ![installing Apcahe on Git img](/installig_aphache.png)
   
   
+### Apache installed: test page
+ Copy the Public IP address of my EC2 and paste into a new tab.
+ IP address: 
+The final look...✨
+![Testpage img](/testpage.png)
